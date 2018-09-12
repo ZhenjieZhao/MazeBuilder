@@ -1,0 +1,3 @@
+1. import this project into eclipse and run the main method in ShowMaze.java
+2. input the width (column) and length (row) number
+3. click Submit button then the maze will be shown
